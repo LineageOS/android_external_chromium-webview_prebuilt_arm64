@@ -16,6 +16,24 @@
       "message": "Some programs crash. For example PCRadio.",
       "revId": "8760bd64b61d81ea4f98678373ff6267cd122118",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "0c769826_03087364",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 15173
+      },
+      "writtenOn": "2023-08-17T12:16:14Z",
+      "side": 1,
+      "message": "Installed PC radio, played something, no crash. logcat or gtfo",
+      "parentUuid": "1905531f_1eb29be1",
+      "revId": "8760bd64b61d81ea4f98678373ff6267cd122118",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
